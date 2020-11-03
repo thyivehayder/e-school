@@ -1,0 +1,33 @@
+.button{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    
+}
+.nav-link{
+    color: black;
+    margin-right: 20px;
+}
+span{
+    color: #21B573;
+}
+h6{
+    color: #FC5C27;
+}
+.bg{
+    background-color: #F0FFF0;
+}
+.cat1{
+    background: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    padding: 25px 0px;
+}
+.cat2{
+    box-shadow: 5px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    padding: 25px 0px;
+}
