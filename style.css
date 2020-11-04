@@ -31,3 +31,44 @@ h6{
     border-radius: 10px;
     padding: 25px 0px;
 }
+section.mbottom{
+    margin-bottom: 80px;
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 20px;
+    border-radius: 18px;
+    background: #FFFFFF;
+   
+    
+}
+.card-deck{
+    margin-top: 30px;
+   
+}
+.card-img-top{
+padding: 20px;
+}
+h1.st{
+    font-weight: 700;
+}
+ul{
+    list-style-type: none;
+}
+.footer p{
+    color: white;
+    margin-top: 20px;
+}
+section.back{
+    background: #282531;
+    margin: 0px 20px;
+ 
+    
+}
+.color{
+    
+    color: white;
+}
+.c{
+    margin-top: 20px;
+}
